@@ -12,7 +12,7 @@ Welcome! This repo contains everything you need for **Week 1** of the Data Engin
 
 ```bash
 git clone <your-fork-or-classroom-url>.git
-cd WEEK1-PYTHON-FOR-DATA-ENGINEERING
+cd de-week-1-Python
 ```
 
 2. **Create a project virtual environment** (recommended: **Python 3.11.3**)
