@@ -115,3 +115,6 @@ This page focuses on **Ubuntu/Debian** to keep your course consistent and simple
 6. Pylance
 7. Python Type Hint
 8. Rainbow CSV
+
+<img width="410" height="324" alt="image" src="https://github.com/user-attachments/assets/6a1f8c81-38f1-4ebb-bf8d-295206fec24c" />
+
