@@ -104,3 +104,14 @@ This page focuses on **Ubuntu/Debian** to keep your course consistent and simple
 [1]: https://code.visualstudio.com/download "Download Visual Studio Code - Mac, Linux, Windows"
 [2]: https://code.visualstudio.com/docs/setup/linux "Visual Studio Code on Linux"
 [3]: https://code.visualstudio.com/docs/configure/command-line "Command Line Interface (CLI)"
+
+
+### Nice extensions to install in VScode
+1. autopep8
+2. Dev Containers 
+3. MySQL (from Database Client)
+4. Docker
+5. GitHub Copilot
+6. Pylance
+7. Python Type Hint
+8. Rainbow CSV
