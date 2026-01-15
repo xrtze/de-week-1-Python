@@ -73,7 +73,7 @@ This folder contains Jupyter notebooks for the **Python Basics** track. You’ll
 
 ---
 
-## Exercises
+## 📝 Exercises
 
 Each topic folder includes an **Exercises/** subfolder with practice tasks that align to the notebooks. Complete the exercises for each section before moving on.
 
