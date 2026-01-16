@@ -1,20 +1,22 @@
-# Git + GitHub
+# 🧩 Git + GitHub
 
-> Goal : learn the Git + GitHub workflow you’ll use in this course—clone → branch → commit → push → pull request (PR) → update from upstream → resolve conflicts.
-> Install steps (Git, SSH keys) are already in **`02_Installation_and_setup/`**.
+> **Goal:** Learn the Git + GitHub workflow you’ll use in this course:  
+> `clone → branch → commit → push → pull request (PR) → update from upstream → resolve conflicts`.  
+> 💻 **Note:** Git installation & SSH key setup are already covered in **`02_Installation_and_setup/`**.
 
 ---
 
-## 1) What are Git and GitHub?
+## 1️⃣ What are Git and GitHub?
 
-* **Git** is a version control system. It tracks changes to files and lets teams work in parallel.
-* **GitHub** hosts Git repositories in the cloud and adds features like pull requests, issues, and code reviews.
+* **Git** – a **version control system** that tracks changes to your files and lets teams work in parallel without overwriting each other.  
+* **GitHub** – a **cloud platform for Git repositories** that adds features like pull requests (PRs), issues, and code reviews.  
 
-**Why we use them here**
+### Why we use them here
 
-* Keeps your work safe (you can roll back).
-* Enables feedback via PRs.
-* Matches real-world team workflows.
+* 🔒 **Keep your work safe** – easily roll back changes if something breaks.  
+* 📝 **Enable feedback** – teammates and instructors can review your code via PRs.  
+* 🌎 **Match real-world workflows** – mirrors how professional software and data engineering teams collaborate.
+
 
 ---
 
