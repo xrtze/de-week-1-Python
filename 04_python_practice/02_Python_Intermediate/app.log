@@ -1,0 +1,12 @@
+2026-01-29 17:09:39,634 - DEBUG - Attempting to divide 10 by 2
+2026-01-29 17:09:39,634 - INFO - Division successful: 10 / 2 = 5.0
+2026-01-29 17:09:48,567 - DEBUG - Attempting to divide 5 by 0
+2026-01-29 17:09:48,567 - ERROR - Attempted to divide by zero: 5 / 0
+2026-01-29 17:10:24,319 - DEBUG - Attempting to divide hello by 2
+2026-01-29 17:10:24,319 - CRITICAL - Critical error: Invalid types for division: unsupported operand type(s) for /: 'str' and 'int'
+2026-01-29 17:12:43,880 - DEBUG - Attempting to divide 10 by 2
+2026-01-29 17:12:43,880 - INFO - Division successful: 10 / 2 = 5.0
+2026-01-29 17:12:43,880 - DEBUG - Attempting to divide 5 by 0
+2026-01-29 17:12:43,880 - ERROR - Attempted to divide by zero: 5 / 0
+2026-01-29 17:12:43,882 - DEBUG - Attempting to divide hello by 2
+2026-01-29 17:12:43,892 - CRITICAL - Critical error: Invalid types for division: unsupported operand type(s) for /: 'str' and 'int'
